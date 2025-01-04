@@ -13,6 +13,8 @@ return(props.loggedIn ? <h2>Welcome{props.username}</h2>
                      : <h2>Please log in to continue</h2>
 );
 
+
+
 }
 
 export default UserGreeting  
